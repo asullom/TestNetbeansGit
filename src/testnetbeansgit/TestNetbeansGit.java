@@ -19,6 +19,7 @@ public class TestNetbeansGit {
         // TODO code application logic here
         // local.A
         // remote.1
+        // remote.2
         // local.B
         
     }
