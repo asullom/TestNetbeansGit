@@ -25,6 +25,7 @@ public class TestNetbeansGit {
         // remote.4
         // local.2
         // local.B
+        // remote.5
         
     }
     
